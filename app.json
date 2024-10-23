@@ -1,5 +1,5 @@
 {
-  "name":"BONIPHACE-MD UPDATE BY ME",
+  "name":"MOE☠️ UPDATE BY ME",
   "description":"Best WhatsApp Bot Developed By Boniphace Tech Contact me 255716661569, Thank you for choose BONIPHACE-MD",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/b8dokx.jpeg",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BONIPHACE-MD",
+      "value":"MOE☠️",
       "required":false
 
     } ,
@@ -49,7 +49,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"no",
+      "value":"yes",
       "required": true 
     }
 	,
@@ -64,7 +64,7 @@
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , the code you receive after scanning Qr code",   
+      "description":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic0NhRDROVG9uWjB2K1l1aEQyMUpkMWMzY3dObkVCaXpRR21kYytTZjlIMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaWFXSHVUS3RpcUxSWlNHR2FaMVlkM3hFTWtJNFAwbjZ4cFdoOWZLcnFoST0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDTFFPY0xNc1hvSm14ZFZtSUVlSmJSSzdTNTkvUEg3b01CL3BvYmpITGxZPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJIcmp0SUY4SWtoaTNlTzdmME5BbGZHWUhDUmE5ckxJdFBOY1NQNXk2S1ZVPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImVGaGYwcnhzWVBNZnhiN25GQzhpTDdNNmFKYXFaUE1SZFg3dElGL3ExMWc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InVHU1JFQTRic21QTW9INVIranhTR1JtcjZaUzlhak0xclpkNGkyUTRLeXc9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkJseFh2SGV4azJSVld2Tk1WczhBTDZTS1ZBeVJPKytWc0hGcy9wVzVGWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoialVnTGw1ald3SytOUVhtSGdLVWh0UXlUVWxyNWxydnQ0YTVwVDN4S2dsTT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik00S2x4enRpQ0V0c3BqTG1lRVh3QmNMbk0wUGwrdStmN3k2d2Nzbjk2SnZmd1c0bTdYZFYxeHlnWkd5UFZPaFhlSTUvb1BhTWk1eWlyOGJpKzlLa0FBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTgwLCJhZHZTZWNyZXRLZXkiOiI2SGFCNlZjMlM1U3l0WjdlVnVzRjdWVk5NSEpzdHQxWXZ5YTFqUXVyWjRVPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjI1NTc0Njc2OTk2MEBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiIzQTIzMUY1MjAzNzczRTJFOTgwMiJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzI5NzE4NTAyfSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyNTU3NDY3Njk5NjBAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiM0E2RTFEOUEwNTVCMTc2NTM4MTYifSwibWVzc2FnZVRpbWVzdGFtcCI6MTcyOTcxODUwNX1dLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MSwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoiMEhTNE9CTTNTV0NnV2Y4ZGpsczNEUSIsInBob25lSWQiOiI1MzY2MmIxYS1hNDQyLTQ5ODItYTUzNi1iM2E2ODNkZmZjMzEiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYW0zL2pwM0R0cGp0OFh3L3JZM0ZpZ3FDWXJZPSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik4zcVY3VHdad0xnS1ptRkFFZk13TTJWZ29rOD0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiIxM1o3NVpaMiIsIm1lIjp7ImlkIjoiMjU1NzQ2NzY5OTYwOjFAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoi8J+YmCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDSmVncTdFR0VOZlI1YmdHR0FFZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiWS83YmR6Y1F2ZVI5dCt0NEJlZGdSbUlJZXN1eUVuY2dka2ZwaFJaNytGTT0iLCJhY2NvdW50U2lnbmF0dXJlIjoiMEVrWHBCZ0FFS3JFQmJnanpmQ05MbW9GVFhpdVJtSTRtS3N1YmZoT3VSVzhubytpaEplUGZOM1RFRyt2ZjMvcjkxUE9LSDZmRmxveTl3VTNEMlhRZ3c9PSIsImRldmljZVNpZ25hdHVyZSI6ImxnTmMwYlJtRU9MN0h1NVZ5d0VMY29oSkpSNFJQVmVIbWZqankxaTF4dkdGVTNKNVlJdlZ2U1Vib0Z3K3JYTU0vV3J3dmV5dDV6WWV2KzJuN1R0a0R3PT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU1NzQ2NzY5OTYwOjFAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCV1ArMjNjM0VMM2tmYmZyZUFYbllFWmlDSHJMc2hKM0lIWkg2WVVXZS9oVCJ9fV0sInBsYXRmb3JtIjoiaXBob25lIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzI5NzE4NTAxLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUJLRyJ9",   
       "value":"",
       "required":true
       
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BONIPHACE TECH👑"
+    "value": "MOE☠️VIPPEER"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255716661569"
+    "value": "255746769960"
 	  
   },
     "WARN_COUNT":
